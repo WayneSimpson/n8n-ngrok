@@ -1,0 +1,9 @@
+# Ignore .env files
+.env
+
+# Ignore shared folder
+/shared
+
+# Ignore other typical files
+.DS_Store
+node_modules
